@@ -1,2 +1,3 @@
 # Audio-format-conversion
-Initial commit
+Conversion of .wav files to .dat files 
+
